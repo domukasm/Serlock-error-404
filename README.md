@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://domukasm.github.io/Serlock-error-404/
 
-Design: [SHERLOCK](./img/serlock.png)
+Design: [SHERLOCK](./img/designserlokas.jpeg)
 
 ## 🎯 Project features/goals
 
