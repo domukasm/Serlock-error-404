@@ -15,9 +15,9 @@ body {
 }
 
 .main-title {
-    display: inline-block;
-    color: #343e48;
     float: right;
+    display: inline;
+    color: #343e48;
     padding-bottom: 0.2em;
     margin: 0;
     margin-right: 600px;
